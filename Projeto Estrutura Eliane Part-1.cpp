@@ -26,3 +26,5 @@ struct Resultado {
     std::string tc;
     int votos;
 };
+
+ahsbvdha
